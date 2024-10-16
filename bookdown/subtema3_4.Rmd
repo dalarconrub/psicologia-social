@@ -1,0 +1,28 @@
+## 3.4. Métodos correlacionales {.unnumbered #subtema3_4}
+
+A veces algunas variables no se pueden controlar o la asignación aleatoria no se puede emplear por razones prácticas o éticas.
+
+### 3.4.1. Correlación: la búsqueda de relaciones {.unnumbered #subtema3_4_1}
+
+En el **enfoque correlacional** el observador simplemente observa si las variables que le interesa estudiar, por lo general, se presentan juntas. No intenta controlar las variables ni pretende asignar a los participantes aleatoriamente a grupos. Esas asociaciones se llaman **correlaciones** que expresan, de forma matemática, la relación o asociación entre dos variables.
+
+- **Correlación positiva:** cuando una variable aumenta, la otra también (por ejemplo, fumar más está relacionado con mayor probabilidad de cáncer de pulmón).
+- **Correlación negativa:** cuando una variable aumenta, la otra disminuye (por ejemplo, mayor tiempo dedicado a los videojuegos se asocia con una menor puntuación en las notas).
+- **No hay correlación:** las dos variables no están relacionadas (por ejemplo, el IQ y la estatura).
+
+Las correlaciones se calculan mediante un **coeficiente de correlación** a través de **r de Pearson**. Este índice sirve para cuantificar la relación lineal entre dos variables cuantitativas, independientemente de la escala de medida de ambas variables. Varía desde +1.0 (correlación positiva perfecta) a -1.0 (correlación negativa perfecta), 0 indica que las dos variables no están relacionadas.
+
+Como regla general, una correlación «pequeña» es **r ± 0.1**, una correlación «media» es **r ± 0.3**, y una correlación «grande» es **r ± 0.5** en las ciencias sociales.
+
+### 3.4.2. Investigación mediante encuestas {.unnumbered #subtema3_4_2}
+
+Método no experimental.
+
+- **Entrevistas estructuradas:** el investigador hace preguntas a los participantes y registra las respuestas.
+- **Cuestionario:** los participantes escriben sus respuestas a preguntas escritas.
+
+Se puede obtener una gran cantidad de participantes, por lo que la generalización no es un problema. Pero hay muchos sesgos, como la tendencia de algunos encuestados a estar de acuerdo sin pensar con las afirmaciones que hace el cuestionario. Los cuestionarios anónimos y confidenciales pueden minimizar los sesgos.
+
+## 3.5. Observación sistemática: describir el mundo que nos rodea {.unnumbered #subtema3_5}
+
+El estudio de campo implica la observación, el registro y la codificación del comportamiento a medida que ocurre (se usa mucho en la antropología). Por ello, el investigador no es intrusivo y suele ser invisible, por ejemplo, a veces se hace pasar por un participante más.

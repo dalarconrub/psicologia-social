@@ -1,0 +1,17 @@
+## 1\.6 El lugar de la Psicología Social en las Ciencias Sociales {.unnumbered #subtema1_6}
+
+La Psicología se enmarca en el ámbito de las Ciencias Sociales, cuyo marco común es el estudio de los seres humanos y las sociedades en las cuales viven y se desenvuelven. Entre estas disciplinas, la Sociología es la más cercana a la Psicología Social. Sin embargo, los sociólogos se centran más en el contexto social.
+
+
+**Diferencias: Ejemplo del desempleo**
+
+
+| Sociología | Psicología Social |
+| --- | --- |
+| **Contexto social**Analiza los datos económicos macrosociales (tasa de desempleo, número de contratos, duración de contratos, etc.), construyendo perfiles de las personas desempleadas (edad, género, nivel educativo, etc.) y se centra en factores macrosociales como la educación y la economía. | **Interacción entre contexto social y procesos psicológicos**Analiza la relación entre las experiencias de socialización (familiar y laboral) y los procesos psicológicos (pensamiento, emociones, comportamiento) que afectan a la persona, como el deterioro de la autoestima, el estrés, la percepción de la empleabilidad y las expectativas laborales futuras. |
+
+
+**Relación de la Psicología Social con otras disciplinas enmarcadas en las Ciencias Sociales:**
+
+
+![Relación de la Psicología Social con otras disciplinas](static/images/image1.png)

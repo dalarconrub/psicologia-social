@@ -1,0 +1,18 @@
+## 3.2. Métodos de investigación en psicología social {.unnumbered #subtema3_2}
+
+Los métodos se pueden clasificar en dos grupos: experimentales y no experimentales. La elección dependerá de múltiples factores: de la naturaleza de la hipótesis, de la disponibilidad de recursos (tiempo, financiación, participantes…) y de las limitaciones éticas del método.
+
+La **experimentación sistemática** es el método preferido por los psicólogos sociales y científicos en general, pero muchas veces resulta imposible de realizar. Por ejemplo, está limitada en cuanto a que las características de las personas no son susceptibles de experimentación (no se puede manipular el sexo biológico y ver qué efectos surgen) o por la existencia de cuestionamientos éticos. Implica la intervención en forma de manipulación de una o más variables, y su posterior medición del efecto de dicha manipulación sobre una o más variables que son las que interesan al investigador.
+
+Cuando no es posible realizar un experimento o no es ético, se deberá recurrir a métodos no experimentales. Estos carecen de una o varias de las características claves del experimento como la manipulación de una variable independiente y la asignación aleatoria de los participantes a las diversas condiciones experimentales, por lo tanto, se limitan al análisis de la relación entre variables que impiden extraer conclusiones causales.
+
+**Ejemplo:** podríamos tener a dos grupos de personas (unas víctimas de delitos violentos y otras que no lo han sido) para evaluar su autoestima y ver si hay diferencias. Sin embargo, las diferencias se podrían deber al delito o a otras muchas causas no controlables entre ambos grupos, por lo que sólo sería admisible afirmar que existe una relación entre la autoestima y el hecho de haber sido víctima de delitos violentos. Ya que no hay evidencia de que un hecho cause el otro, ser víctima puede bajar la autoestima o la baja autoestima puede hacer que aumente la probabilidad de convertirse en víctima, o puede haber una tercera variable como el desempleo que haya disminuido esta.
+
+El pluralismo metodológico ayuda a reducir la posibilidad de que un resultado encontrado sea efecto de un método particular. La replicación por parte de diferentes grupos de estudio ayuda a evitar el sesgo de confirmación.
+
+----------------------------------------------------------------------------------------------------------------------------
+### El sesgo de confirmación
+
+Cuando los investigadores se involucran tan intensamente en sus propias teorías que pierden objetividad en la interpretación de los datos y toman en consideración solo aquellos datos que avalan sus hipótesis, descartando los datos contrarios a ellas.
+
+----------------------------------------------------------------------------------------------------------------------------

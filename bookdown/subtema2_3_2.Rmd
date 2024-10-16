@@ -1,0 +1,31 @@
+### 2\.3\.2 La conexión entre los procesos psicosociales {.unnumbered #subtema2_3_2}
+
+Los procesos psicosociales de diferentes niveles forman una red de relaciones complejas, donde los procesos grupales pueden afectar a los interpersonales. Un ejemplo es la transmisión cultural individualista/colectivista, que ilustra cómo se transmiten las orientaciones culturales a los inmigrantes de segunda generación y la relación entre estas formas de transmisión y las diferencias cognitivas entre inmigrantes y grupos nativos.
+
+
+Las personas de los países WEIRD (Occidentales, Educados, Industrializados, Ricos y Democráticos) muestran un procesamiento cognitivo diferente: mayor individualismo, que se traduce en una cognición más analítica y menos holística. Sin embargo, los mecanismos para mantener esta diferencia cultural entre inmigrantes de segunda generación no están claros.
+
+
+Los investigadores han diferenciado entre varios mecanismos de transmisión cultural:
+
+
+* **Transmisión cultural vertical:** Aprender de los padres.
+* **Transmisión cultural oblicua:** Aprender de otros mayores que no son los padres, como maestros u otros familiares.
+* **Transmisión cultural horizontal:** Aprender de los compañeros.Subprocesos: 
+	+ **Conformidad:** Adoptar los comportamientos mayoritarios.
+	+ **Sesgo de prestigio:** Imitar a personas famosas.
+	+ **Transmisión de uno a muchos:** A través de los medios de comunicación.
+
+
+Hay evidencia de que la transmisión cultural horizontal puede ser tan influyente como la vertical o incluso más.
+
+
+#### Estudio de Mesoudi et al. (2016\)  {.unnumbered}
+
+
+Mesoudi et al. realizaron un estudio sobre los mecanismos de transmisión cultural individualista que ejemplifica cómo se pueden estudiar simultáneamente procesos intrapersonales (estilos cognitivos de atribución) con procesos macrosociales (orientación cultural). 
+
+El estudio se centró en inmigrantes bangladesíes, cuyos resultados mostraron que el individualismo y la **atribución disposicional** (tendencia a explicar los comportamientos de otros a partir de sus características personales) típicos de las sociedades occidentales se deben a la transmisión cultural horizontal, que se transmite más rápidamente, mientras que los padres u otros miembros familiares ejercen poca o ninguna influencia. 
+
+En cambio, el colectivismo, la cercanía social y la **atribución situacional** (tendencia a explicar los comportamientos de otros a partir de sus circunstancias ambientales) fueron impulsados por una combinación de transmisión vertical, oblicua y horizontal.
+

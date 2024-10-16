@@ -1,0 +1,34 @@
+## 1\.5 Diferencias entre la Psicología Social y el sentido común {.unnumbered  #subtema1_5}
+
+Dado que el comportamiento social es algo de lo cual todos tenemos experiencia cotidiana, tanto porque lo ejecutamos como porque observamos en las personas que nos rodean, tendemos a reflexionar sobre cómo se comportan y cómo esperamos que lo hagan.
+
+
+Durante la Segunda Guerra Mundial, Lazarsfeld (1949\) presentó un estudio sobre la vida de los soldados que arrojó resultados que parecían "obvios" según el sentido común. Algunos ejemplos:
+
+
+* **1\. Los soldados más educados mostraron más síntomas de inestabilidad mental que los soldados menos educados.**  
+
+ - Explicación: "Los intelectuales estaban menos preparados para el estrés de la batalla que cualquier persona media de la calle".
+ 
+* **2\. Los soldados procedentes de ambientes rurales mostraron, por lo general, mejor ánimo que los de las ciudades.**  
+
+ - Explicación: "Después de todo, ellos están más acostumbrados a las privaciones".
+ 
+* **3\. Los soldados blancos de rango inferior estaban más ansiosos por convertirse en suboficiales que los negros.**  
+
+ - Explicación: "La falta de ambición de los negros es conocida, quizá a causa de que tantos años de esclavitud afectaron a la motivación de logro".
+
+
+Lazarsfeld preguntó: Si esto es tan obvio, ¿por qué gastar dinero y energía para investigar estos resultados? La cuestión es que, en realidad, todos estos hallazgos eran lo opuesto a lo que se había encontrado: los soldados menos educados eran más neuróticos, y los soldados negros estaban más ansiosos de promoción que los blancos.
+
+
+**Comparación entre Psicología Social y sentido común:**
+
+
+
+
+| Sentido Común | Psicología Social |
+| --- | --- |
+| Describe cómo han sucedido las cosas. | Se interesa por las causas que explican cómo ha sucedido un fenómeno y predice antes de que ocurra. |
+| Afectado por el Sesgo Retrospectivo ("Lo supe todo el tiempo"). | Determina cuál de dos predicciones (hipótesis) opuestas era correcta y bajo qué circunstancias. |
+

@@ -1,0 +1,22 @@
+## 2\.3 La interconexión de los procesos psicosociales  {.unnumbered #subtema2_3}
+
+La Psicología Social se centra en estudiar los pensamientos, sentimientos y comportamientos de las personas en relación con su ambiente social, lo que da lugar a procesos que se pueden analizar en diferentes niveles de explicación. Esto se refiere a los conceptos, mecanismos y lenguajes usados para explicar un fenómeno.
+
+
+___Niveles de procesos psicosociales___
+
+1. **Procesos Intrapersonales**: 
+   Tienen lugar en el interior de una persona en relación con el ambiente social (en presencia de otras personas, reales o no). Incluyen procesos intrapsíquicos, emocionales o motivacionales. Incluso en la intimidad, influyen los demás a través de normas sociales o expectativas externas.
+   - **Autoestima personal**: Sentimiento sobre la propia valía.
+   - **Proceso atributivo intrapersonal**: Asignación de éxitos personales a uno mismo y de fracasos a factores externos o a otras personas.
+
+2. **Procesos Interpersonales (y Situacionales)**:
+   Se refieren a la interacción entre dos personas, siempre que estén relacionándose en su condición individual, no como miembros de un grupo. Aquí no se consideran las posiciones fuera de la situación.
+   - Ejemplo: Relaciones íntimas como el amor o la amistad.
+
+3. **Procesos Grupales (Posicionales)**:
+   Involucran la interacción entre individuos en función de su pertenencia a grupos sociales. Aquí se toma en cuenta el estatus dentro del grupo y la identidad social fuera de la situación específica.
+   - **Liderazgo según la Teoría de la Identidad Social (TIS)**: Reconoce el papel del líder y de los seguidores como miembros de un grupo. El liderazgo se entiende como una relación entre líderes y seguidores en un contexto grupal.
+
+4. **Procesos Macrosociales (Ideológicos)**:
+   Se analizan interacciones individuales o grupales, pero se considera el papel de las normas sociales y las relaciones entre grupos. Un ejemplo sería la influencia cultural en conductas agresivas.

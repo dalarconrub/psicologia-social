@@ -1,0 +1,27 @@
+### El sesgo retrospectivo {.unnumbered  #subtema1_5_1}
+
+El sesgo retrospectivo ocurre cuando las personas sienten que lo sabían todo el tiempo debido a tres factores:
+
+
+* **Distorsión de la memoria**
+
+* **Creencias sobre las probabilidades objetivas de los eventos**
+
+* **Creencias subjetivas sobre las propias capacidades de predicción**
+
+
+El sesgo retrospectivo proviene de:
+
+
+* **Procesos cognitivos**: Las personas recuerdan selectivamente información consistente con lo que ahora saben de verdad.
+
+* **Procesos metacognitivos**: La facilidad con la que se comprende un resultado se atribuye erróneamente a su supuesta probabilidad previa. Cómo es fácil de entender, es fácil que sucediese eso en vez de lo contrario.
+
+* **Procesos motivacionales**: Necesidad de ver el mundo ordenado y predecible, y evitar sentirse culpable de los problemas.
+
+
+**Consecuencias:** Las personas tienden a centrarse en una sola causa como explicación del pasado, descuidando otras explicaciones, además de un exceso de confianza en la certeza de sus propios juicios.
+
+
+Se continúa investigando si expertos en un área de conocimiento (por ejemplo, médicos vs practicantes) son más o menos proclives a este sesgo.
+

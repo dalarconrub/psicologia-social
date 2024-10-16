@@ -1,0 +1,60 @@
+
+---
+title: "Mapa Conceptual: Presentación de Psicología Social"
+author: "Usuario"
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+output: pdf_document
+---
+
+# Mapa Conceptual de Psicología Social
+
+Este documento presenta un mapa conceptual que ilustra los principales temas y relaciones de la Psicología Social.
+
+```{mermaid}
+mindmap
+  root((Psicología Social))
+    Influencia del Entorno Social
+      Presencia
+        Real
+        Imaginada
+        Simbólica
+      Impacto en
+        Pensamientos
+        Sentimientos
+        Comportamiento
+    Principios Científicos
+      Exactitud
+      Objetividad
+      Escepticismo
+      Apertura mental
+    Comportamiento Social
+      Acciones observables
+      Expresiones verbales y no verbales
+    Causas del Comportamiento
+      Conducta de otras personas
+      Rasgos físicos
+      Pertenencia a grupos
+      Procesos cognitivos
+    Principios Básicos
+      Construcción de la Realidad Social
+      Motivos Sociales
+    Niveles de Análisis
+      Intrapersonal
+      Interpersonal
+      Grupal
+      Macrosocial
+    Métodos de Investigación
+      Experimentales
+      No experimentales
+```
+
+## Descripción de Conceptos Clave
+
+- **Psicología Social:** Estudia cómo los pensamientos, sentimientos y comportamientos son influenciados por la presencia de otros.
+- **Influencia del Entorno Social:** Considera la presencia real, imaginada o simbólica, y cómo impacta en los pensamientos, sentimientos y comportamientos.
+- **Principios Científicos:** Exactitud, objetividad, escepticismo y apertura mental.
+- **Comportamiento Social:** Incluye acciones observables y expresiones verbales/no verbales.
+- **Causas del Comportamiento Social:** Conducta de otras personas, características físicas, pertenencia a grupos y procesos cognitivos.
+- **Principios Básicos de la Psicología Social:** Construcción de la realidad social y motivos sociales.
+- **Niveles de Análisis:** Intrapersonal, interpersonal, grupal y macrosocial.
+- **Métodos de Investigación en Psicología Social:** Métodos experimentales y no experimentales.

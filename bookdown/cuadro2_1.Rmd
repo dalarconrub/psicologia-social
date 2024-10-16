@@ -1,0 +1,21 @@
+### El Dilema del Prisionero {.unnumbered   #cuadro2_1}
+
+-----------------------------
+
+
+El Dilema del Prisionero es un problema fundamental de la teoría de juegos que comenzó en el ámbito de las matemáticas. Este dilema describe una situación en la que dos personas pueden elegir no cooperar, a pesar de que si lo hicieran, obtendrían un resultado más beneficioso para ambas partes.
+
+
+En el escenario clásico, la policía arresta a dos sospechosos de un crimen y les ofrece el mismo trato por separado:
+
+
+* Si uno confiesa y su cómplice no lo hace, el cómplice será condenado a cinco años de prisión mientras que el delator será liberado.
+* Si ambos confiesan, cada uno recibe una condena de cuatro años.
+* Si ninguno confiesa, ambos pasarán solo un año en prisión por falta de pruebas.
+
+
+Desde la perspectiva de uno de los sospechosos, la mejor opción individual es confesar, ya que le beneficia haga lo que haga la otra persona. Sin embargo, si ambos cooperan y no confiesan, serán condenados solo a un año cada uno, lo que sería el mejor resultado conjunto.
+
+
+Este juego se puede hacer en una sola ronda, pero presenta mayor interés cuando hay varias rondas, ya que les permite a los jugadores aprender progresivamente y ajustar su conducta en función de las acciones del otro.
+

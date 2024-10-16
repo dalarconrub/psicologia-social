@@ -1,0 +1,7 @@
+.book .book-summary {
+  font-size: 14px;
+}
+
+.book .book-summary a:hover {
+  color: #0056b3;  /* Cambia el color al pasar el ratón */
+}

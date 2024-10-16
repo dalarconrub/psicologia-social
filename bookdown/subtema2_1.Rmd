@@ -1,0 +1,53 @@
+# 2. Principios básicos de la Psicología social {.unnumbered  #tema2}
+
+La psicología social sigue unos principios básicos que influyen en la investigación de los psicólogos sociales, es decir, la forma en la que estos se acercan a los temas de estudio, la manera en que formulan las hipótesis de sus investigaciones y el modo en que evalúan el comportamiento social.
+
+## 2\.1 Construimos nuestra realidad social {.unnumbered  #subtema2_1}
+
+Las personas nos esforzamos por darle sentido a la realidad de forma que nos resulte ordenada, predecible y controlable. La forma en la que reaccionamos a esta realidad no depende sólo de hechos objetivos, sino de la interpretación que hacemos sobre ellos. Ello explica por qué las personas reaccionamos diferente ante los mismos acontecimientos: no están en presencia del mismo fenómeno debido a que lo han interpretado de manera diferente.
+
+
+A menudo, las personas ven lo que quieren ver. Creemos que hay una realidad objetiva ahí fuera, pero la vemos a través de nuestros intereses, motivaciones, actitudes, valores y creencias. Por tanto, la realidad social es subjetiva y construida por cada individuo.
+
+------------------------------------------------------------------------
+
+#### Los movimientos de protesta (Kahan, 2012\)  {.unnumbered}
+
+Este experimento explora cómo los valores a los que cada persona se adhiere influyen en su percepción de los hechos, en situaciones que tienen consecuencias penales. 
+
+Se evaluaron los valores más importantes para los participantes, diferenciando entre **tradicionales** y **progresistas**. Luego, se mostraron vídeos de una manifestación en la que los manifestantes se enfrentaban a la policía que intentaba dispersarlos.
+
+___Condiciones Experimentales___
+
+- **Condición clínica de abortos**: A la mitad de los participantes se les informó que la manifestación ocurría frente a una clínica de abortos y que el objetivo era reclamar la legalización del aborto (valores más tradicionales).
+- **Condición centro de reclutamiento militar**: A la otra mitad se les informó que la manifestación ocurría frente a un centro de reclutamiento militar, con el objetivo de protestar contra la prohibición de reclutar soldados abiertamente homosexuales (valores más progresistas).
+
+___Objetivo del Experimento___
+
+El objetivo era examinar si los participantes con valores opuestos tendrían percepciones diferentes cuando se les asignaban la misma condición experimental y se les preguntaba sobre el comportamiento de la policía.
+
+___Resultados___
+
+A pesar de que todos vieron el mismo vídeo, la interpretación de lo que observaron —ya fuera expresiones de disidencia con la intención de persuadir o intimidación física calculada— dependía de la congruencia entre las posiciones de los manifestantes y los valores culturales de los propios participantes.
+
+------------------------------------------------------------------------
+
+Las personas tienden a explicar las conductas de los demás recurriendo a características personales, subestimando la influencia de la situación. Sin embargo, la forma en la que se define la situación y las normas sociales imperantes en ella influyen en el comportamiento de las personas.
+
+
+Las definiciones de la situación y de las normas e ideologías proporcionan un sentido compartido de lo que está bien y lo que está mal (conservadurismo político y liberalismo, el sexismo y racismo…), afectan las percepciones de las personas sobre lo que es y lo que debería ser. Por lo que las creencias, valores y conductas deben entenderse en su contexto social y cultural.
+
+------------------------------------------------------------------------
+
+#### El Dilema del Prisionero: Juego de Wall Street vs Juego de la Comunidad  {.unnumbered}
+
+
+Otro experimento investigó cómo la etiqueta de un juego influía en las decisiones de cooperación. A los participantes se les dijo que jugarían un juego de negociación, pero a algunos se les dijo que era el "Juego de Wall Street" y a otros el "Juego de la Comunidad".
+
+
+El resultado fue que el nombre del juego influyó significativamente en las decisiones de los participantes. En el Juego de la Comunidad, tanto los participantes cooperativos como los competitivos cooperaron, mientras que en el Juego de Wall Street sólo el 33% cooperaron, independientemente de su personalidad.
+
+
+Por otro lado, el hecho de que los participantes que cooperaron recibiesen cooperación en la primera ronda, generalmente influía a que cooperasen en las siguientes rodas, mientras que los que habían competido o se enfrentaban a competencia tendieron a competir desde entonces.
+
+------------------------------------------------------------------------

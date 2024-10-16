@@ -1,0 +1,104 @@
+## 3.3. El experimento: generación del conocimiento a través de la intervención sistemática  {.unnumbered #subtema3_3}
+
+El experimento es un procedimiento para probar una hipótesis en el que se hace algo con el objetivo de comprobar qué efecto tiene sobre otra cosa.
+
+La **variable independiente** es cualquier evento observable que causa que la persona haga algo. Independiente en el sentido de que sus valores son creados o manipulados por el investigador y no se ven afectados por nada más de lo que suceda en el experimento, ni por el propio participante. Es una variable porque tiene al menos dos niveles, categorías, tipos o grupos (frustración y no frustración).
+
+La conducta es una función tanto de la situación como de las diferencias personales, pero mientras que las variables relativas a la situación se pueden manipular (aumentar el calor de la sala para valorar la relación calor-agresión), las variables relativas a las diferencias individuales como el género, edad, inteligencia… se pueden medir y nos dan información sobre cómo se correlaciona, pero no se puede manipular. Esto limita en cuanto a que sólo se pueden sacar conclusiones de causalidad (A es causa o efecto de B) sobre las auténticas variables independientes que fueron manipuladas.
+
+Sólo la experimentación puede establecer la causalidad.
+
+La **variable dependiente** es cualquier comportamiento observable que produce una persona. Es dependiente en el sentido que sus valores dependen de la variable independiente.
+
+**Ejemplo:** Estudio del efecto de la cerveza con alcohol vs sin alcohol sobre la agresión.
+- VD: Agresión
+- VI: Cerveza con alcohol vs sin alcohol
+
+Se podrían usar diferentes medidas de agresión: insultos verbales, agresiones físicas… y diferentes formas de operativizar la agresión.
+
+### 3.3.1. Control: manipulación de variables (y asignación aleatoria) {.unnumbered #subsubtema3_3_1}
+
+Un experimento tiene dos características esenciales:
+
+1. El investigador tiene control sobre los procedimientos → manipula la VI y mantiene constantes todas las demás variables, tiene que asegurarse de que cualquier diferencia observada en la VD es causada por la VI y no por otros factores. De esta forma, el investigador tiene la responsabilidad de hacer el experimento creíble para los participantes.
+
+2. Los participantes son asignados aleatoriamente → donde tengan la misma oportunidad de ser asignados en cada grupo. De esta forma, los participantes de cada grupo se espera que sean similares a los del otro grupo, así tras manipular la variable independiente se espera que las diferencias entre los grupos sean el resultado de la variable independiente y no de diferencias iniciales preexistentes entre los participantes.
+
+**Tipos de manipulaciones experimentales y verificación de la manipulación**
+
+1. **Manipulación ambiental**: se modifican características del entorno (iluminación, ruido de fondo, temperatura…).
+
+**Ejemplo:** Descargas eléctricas y presencia de armas (agresión).
+
+Se expuso a los participantes a descargas eléctricas (entre 1 a 7 descargas). Después, tenían la oportunidad de administrar descargas a quienes les habían electrocutado previamente. En unas condiciones se colocó sobre la mesa un arma, en otras en la mesa había unas raquetas de bádminton o no había nada. **Resultado**: Los participantes en presencia de armas aplicaron más descargas que los de la raqueta o control (nada) si habían estado en la condición de descarga máxima (7 descargas).
+
+2. **Manipulación mediante estímulo**: modificación del material visual o verbal proporcionado a los participantes.
+
+**Ejemplo:** Estereotipo mujeres y matemáticas.
+
+Se trató de comprobar el efecto de la amenaza del estereotipo sobre las mujeres para la realización de tareas de matemáticas. Se repartió un ejercicio de cálculo igual para todas las condiciones. Después, apareció el estímulo modificado: se repartió una noticia del periódico (neutra para los varones, y manipulada para las mujeres donde leen que se ha demostrado que las mujeres rinden peor en las tareas de cálculo). Se vuelve a repartir un ejercicio de cálculo igual que en la primera fase.
+
+3. **Manipulación social**: se modifican las características sociales mediante la presencia o ausencia de otras personas y su comportamiento durante el experimento.
+
+**Ejemplo:** Grado de conformidad.
+
+Se juntaban a participantes con colaboradores del experimentador (el participante pensaba que era otro participante ajeno al experimentador). La tarea consistía en comparar una línea con otras y decir cuál era la que era igual en longitud, siendo la respuesta muy obvia para cualquier persona. **Resultado**: Los participantes podían resistir la influencia del grupo cuando decían la respuesta errónea solamente cuando había uno o dos cómplices, si había tres o más aumenta dramáticamente el grado de conformidad (cuando se añaden más de tres no hay un aumento significativo respecto a tres).
+
+4. **Manipulación mediante instrucciones**: es la forma más común de manipulación experimental. Se manipulan ligeramente las instrucciones proporcionadas a los diferentes grupos de estudio.
+
+**Ejemplo:** Inicio del video y persuasión.
+
+A un grupo de adolescentes de sexto curso se les muestra un vídeo informando sobre el uso de las drogas. A un grupo le muestra un vídeo que comienza con “Padres, ¿tenéis un adolescente en casa?” y al otro grupo uno con “¿estás en sexto curso?” el resto del vídeo era igual.
+
+**Resultado**: El vídeo dirigido a los padres causó mucha más persuasión.
+
+5. **Manipulación de activación, preparación o primming**: una tarea que produce un estado mental que a su vez afecta la reacción al siguiente estímulo.
+
+**Ejemplo:** Bolígrafo labios o dientes.
+
+A un grupo de personas se les asigna sostener un bolígrafo con los labios (impide sonreír) y a otros con los dientes (posición similar a la sonrisa) y se les pone unos dibujos que tienen que valorar como divertidos.
+
+**Resultado**: Las personas calificaron como más divertidas cuando sostenían con los dientes (sonreían).
+
+**Verificación de manipulación o manipulation check**
+
+Se trata de una prueba para determinar la efectividad de una manipulación en un diseño experimental. Sirven para comprobar que los participantes perciben, comprenden y reaccionan como se espera a la parte de la manipulación experimental de la VI y consiste en una o varias preguntas para evaluar si los participantes notaron la manipulación. Normalmente, se hacen al final del experimento para no llamar la atención de la manipulación y asegurarse el efecto de esta.
+
+Las comprobaciones de manipulación se vuelven especialmente importantes cuando la manipulación de la VI resulta no tener ningún efecto sobre la VD.
+
+### 3.3.2. Experimentos de laboratorio {.unnumbered #subsubtema3_3_2}
+
+El experimento social se lleva a cabo en un laboratorio ya que permite controlar las variables extrañas. Lo más relevante es que su validez interna (realismo experimental) sea elevada, que las manipulaciones realizadas sean significativas y tengan impacto psicológico para los participantes.
+
+El objetivo no es conocer la conducta de las personas en el laboratorio, sino poner a prueba las hipótesis derivadas de las teorías sobre el comportamiento humano.
+
+**Inconvenientes:** al ser condiciones artificiales y controladas, los resultados no pueden generalizarse directamente a las condiciones del mundo real.
+ 
+### 3.3.3. Experimentos de campo {.unnumbered #subsubtema3_3_3}
+
+Se realizan fuera de laboratorios, por lo que los participantes no tienen la sensación de que un experimento se está llevando a cabo y les resulta menos reactivo.
+
+- Menor control de las variables externas.
+- Asignación aleatoria complicada.
+- Complicada obtención de mediciones precisas sobre aspectos subjetivos.
+
+### 3.3.4. Otras reflexiones sobre la causalidad: el papel de las variables mediadoras {.unnumbered #subsubtema3_3_4}
+
+Los conocimientos sobre causalidad nos permiten saber si A es causa de B o si B es causa de A, pero a veces queremos saber ¿por qué A influye sobre B? Para conocer más sobre los procesos subyacentes entre dos variables, se realizan estudios en los que miden no solo una VI y una VD, sino otras variables influenciadas por la VI y que a la vez influyen en la VD.
+
+**Ejemplo:** En el caso de las víctimas de delitos violentos, podíamos medir si estas personas han reducido sus creencias sobre la controlabilidad y predictibilidad del mundo o si hacen un elevado número de atribuciones internas (autoculpabilizándose) por la agresión sufrida. Si encontramos estas variables, serán variables mediadoras.
+
+
+-------------------------------------------------------------------------------------------------------------
+Tipos de Variables:
+
+**variable independiente (predictora):**  
+Es cualquier evento observable que causa que la persona haga algo. Independiente en el sentido de que sus valores son creados o manipulados por el investigador. Es una variable porque tiene al menos dos niveles, categorías, tipos o grupos (frustración y no frustración).
+
+**variable dependiente (resultado):**  
+Es cualquier comportamiento observable que produce una persona. Es dependiente en el sentido que sus valores dependen de la variable independiente.
+
+**variable mediadora:**  
+Variable que interviene entre una variable independiente y los cambios en el comportamiento social.
+-------------------------------------------------------------------------------------------------------------
+

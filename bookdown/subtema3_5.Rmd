@@ -1,0 +1,31 @@
+## 3.6. Investigación cualitativa y análisis del discurso {.unnumbered #subtema3_6}
+
+Una metodología no experimental son los métodos centrados en el análisis del discurso (lo que la gente dice, a quién y en qué contexto) para ayudar a identificar la narrativa subyacente que puede revelar lo que la gente está pensando, cuáles son sus motivaciones y qué se pretendía hacer cuando se actuó de una manera.  
+Esta metodología puede revelar aspectos del comportamiento social, emocional y del pensamiento que no son tan manifiestos, ni siquiera para el propio hablante.
+
+## 3.7. Metaanálisis y revisiones sistemáticas de la literatura científica {.unnumbered #subtema3_7}
+
+Una de las mayores críticas a la psicología social es que existen estudios empíricos que apoyan una afirmación y a la vez otros que afirman una totalmente contraria o que directamente niegan la relación. Por lo que Glass (1977) trató de llevar todos esos resultados a una métrica común, permitiéndole sacar una media de todos los resultados: **el metaanálisis** (más allá del análisis).
+
+El metaanálisis designa a un conjunto de procedimientos estadísticos para transformar los resultados de los estudios individuales a una métrica común y realizar comparaciones entre ellos.
+
+- Procura integrar los resultados de la investigación empírica: investigación primaria.  
+  → El metaanálisis sería la investigación secundaria, investigación de investigaciones.
+- Es adecuado para codificar y resumir los resultados como se suelen presentar en los informes de investigación y en los artículos de las revistas científicas.  
+  → No es adecuado para trabajar con los datos originales.
+
+Los hallazgos de cada estudio se representan mediante el **tamaño del efecto**, el cual es un estadístico que codifica y resume la información cuantitativa procedente de cada uno de los estudios originales que se incluyen en el metaanálisis.
+
+Por otro lado, el enorme aumento de publicación de estudios científicos ha impulsado las **revisiones sistemáticas**, que son un tipo de estudio científico que se encarga de recopilar la información generada en torno a un tema concreto con el objetivo de dar una síntesis completa e imparcial de los estudios mediante una rigurosa metodología y una transparente información del procedimiento para que sea posible su replicación.
+
+## 3.8. Ética de la investigación {.unnumbered #subtema3_8}
+
+La APA (American Psychological Association) ha formulado códigos éticos desde 1992 que mantiene actualizados, donde los principios generales son:
+
+1. **Bienestar físico de los participantes:** Se deben preocupar por el bienestar general, no sólo la ausencia de daño físico. Hacer creer a los participantes que tienen un rasgo de la personalidad que provoca rechazo social y exclusión puede provocar un daño psicológico perjudicial, aunque después se les explique que era sólo una manipulación experimental.
+2. **Respeto a la privacidad:** La investigación psicosocial recaba informaciones sensibles como el estado de ánimo, la alimentación, la sexualidad, la salud mental… Se debe asegurar la confidencialidad de los datos obtenidos. La difusión de la información debe ser de forma agregada (a través de medidas de tendencia central como la media de los grupos) y no de datos individuales.
+3. **Uso del engaño:** En laboratorio se manipulan las emociones, pensamientos… para investigar el efecto en las variables, por lo que el engaño se sigue usando con frecuencia. Sin embargo, no se debe usar el engaño a menos que su uso esté justificado por el valor del estudio cuando este no se puede realizar por otras vías. Se deberá explicar a los participantes en cuanto sea posible sin que interfiera en la experimentación, pero siempre antes de la recopilación de datos para permitirles retirarlos si lo desean. No se deberá engañar cuando haya dolor físico o angustia emocional grave.  
+   → No se ha encontrado evidencia de consecuencias negativas a largo plazo del uso del engaño.
+4. **Consentimiento informado:** Las personas deben dar su consentimiento de manera libre y pueden retirarse cuando lo deseen. En las publicaciones serias y rigurosas se exige a los investigadores el certificado del Comité Ético y una copia del consentimiento firmado.
+5. **Informar a los participantes después del experimento o estudio:** Existe un debriefing o informe, que es una explicación detallada del experimento: qué se ha hecho, cómo y para qué, y de su contexto teórico y aplicado más amplio. Cualquier engaño se explica y justifica para dejar satisfechos a los participantes, teniendo que asegurarse de que los efectos de las manipulaciones se hayan revertido.
+

@@ -1,0 +1,57 @@
+## 2\.4 Comportamiento social y cognición social {.unnumbered #subtema2_4}
+
+Hoy en día, el comportamiento y la cognición social se consideran fenómenos estrechamente relacionados. No es posible estudiar uno sin el otro; para comprender cómo las personas se comportan en situaciones sociales, se deben considerar sus pensamientos, memoria, intenciones, emociones, actitudes y creencias. A su vez, las consecuencias de estas acciones afectan nuestras emociones y pensamientos.
+
+
+#### Evolución de la cognición social {.unnumbered }
+
+En la primera etapa de los años 80, las personas eran vistas como "ahorradores" con escasa capacidad de procesamiento, propensas a tomar atajos (heurísticos). Se abandona la idea del ser humano como completamente racional, y la investigación se centra en dos procesos:
+
+
+* **Saliencia:** La información que destaca sobre otras.
+
+* **Uso de categorías sociales:** Los observadores clasifican a las personas según categorías como raza o género, ignorando su individualidad (tacaño cognitivo).
+
+
+En los años 90, se reconoció que la cognición social es útil para la interacción social. Ideas clave incluyen:
+
+
+1. Al percibir a otros, usamos estrategias suficientemente buenas para alcanzar nuestras metas cotidianas.
+2. Construimos significados que van más allá de la información dada, a través de conceptos como rasgos, estereotipos o historias (estrategas motivados).
+
+
+#### Modelo de procesamiento dual (Fiske y Neuberg, 1999\){.unnumbered }
+
+
+Este modelo aborda cuándo las personas utilizan estrategias rápidas y cuándo se involucran en procesos más detallados. Los perceptores forman impresiones inicialmente usando atajos, categorizando a las personas según *características sobresalientes* (género, edad) y priorizando esas impresiones. 
+
+Si la impresión es suficiente para su objetivo cotidiano (interactuar con un camarero), el proceso se detiene.
+
+Si el ajuste no es bueno (por ejemplo, el género del camarero es ambiguo) o la motivación es alta (el camarero es amigo de un amigo), se prestará más atención, lo que puede transformar las impresiones basadas en estereotipos en impresiones más individualizadas.
+
+
+#### Etapa presente {.unnumbered }
+
+
+En la actualidad, donde la desigualdad es objeto de interés, la cognición social ve a las personas como facilitadores de la desigualdad. El concepto de "envidia hacia arriba, desprecio hacia abajo" se refiere a cómo el estatus nos divide (Fiske, 2010\). Los procesos cognitivos sociales, como sesgos y atajos, no causan desigualdad, pero permiten que exista a nivel interpersonal.
+
+
+* Las personas de alto estatus intentan proyectar calidad y tienden a hablar con personas de menor estatus, minimizando su propia competencia.
+
+* Si se preocupan por parecer justos e igualitarios, pueden patrocinar a las personas menos privilegiadas.
+
+
+Los trabajos de Taylor sobre la salud y de Fiske en el laboratorio se centran en las *familias* como sustentadoras de la *desigualdad.* Aunque la familia se considera un entorno cálido y protector, no siempre es así.
+
+------------------------------------------------------------------------
+Resumen
+
+* **Tacaño cognitivo (80s):** Uso de atajos mentales para conservar los recursos cognitivos.
+
+* **Estratega motivado (90s):** Destaca cómo las influencias motivacionales y situacionales pueden influir en las estrategias cognitivas que se emplean para procesar la información social.
+
+* **Actor activo (2000s):** El papel del entorno social en la provocación de objetivos y la formación de respuestas, donde las acciones basadas en objetivos son activadas situacionalmente.
+
+* **Facilitador de la desigualdad (2010s):** Las personas apoyamos estereotipos y juicios hacia los demás que establecen quién es bueno y quién es malo.
+
+------------------------------------------------------------------------

@@ -1,0 +1,124 @@
+
+
+# Glosario del Tema 1: Introducción a la psicología social {.unnumbered #glosario1}
+
+### 1. Introducción a la Psicología Social {.unnumbered}
+
+**Definición de Psicología Social:**  
+La psicología social se centra en investigar cómo los pensamientos, sentimientos y comportamientos de las personas se ven afectados por la presencia, ya sea real, imaginaria o simbólica, de otras personas. Examina cómo el entorno social nos influye a través de la interacción con otros y nuestros pensamientos sobre ellos.
+
+**Enfoque Principal:**
+- Influencia del entorno social.
+- Impacto de otras personas o pensamientos sobre ellas.
+
+### 2. Psicología Social como Ciencia {.unnumbered}
+
+
+**Principios Científicos:**
+
+- **Exactitud:** Uso del método científico para obtener y evaluar información de forma rigurosa, minimizando errores.
+
+- **Objetividad:** Análisis de la información de manera imparcial, evitando que las emociones o sesgos del investigador interfieran.
+
+- **Escepticismo:** Comprobación de resultados a través de replicación antes de considerarlos válidos.
+
+- **Apertura mental:** Disposición a modificar conclusiones a la luz de nuevas evidencias.
+
+### 3. El Comportamiento Social como Objeto de Estudio {.unnumbered}
+
+
+**Definición de Comportamiento Social:**  
+El comportamiento social incluye las acciones observables y medibles que se pueden cuantificar objetivamente, como el tiempo de reacción en hacer una atribución social.
+
+**Tipos de Comportamientos:**
+
+- **Acciones físicas, expresiones verbales, escritas y gestuales:** El comportamiento incluye desde movimientos físicos hasta expresiones verbales y gestuales, que son medios para comunicar pensamientos y emociones.
+
+**Factores que Influyen en el Comportamiento:**
+
+- **Factores culturales y étnicos:** Normas y valores que moldean el comportamiento dentro de cada contexto social.
+
+- **Presencia de otros:** La influencia de otros, ya sea real, imaginada o simbólica, sobre el comportamiento individual.
+
+### 4. Causas del Comportamiento Social {.unnumbered}
+
+
+**Categorías de Causas:**
+
+- **Conducta de otros:** Las acciones de los demás influyen en nuestras respuestas emocionales y conductuales.
+
+- **Características físicas:** Factores como el atractivo, la edad, la etnia y otros aspectos físicos afectan nuestras percepciones y comportamiento.
+
+- **Grupos de pertenencia:** La pertenencia a grupos sociales afecta cómo somos percibidos y cómo nos comportamos con los demás.
+
+- **Procesos cognitivos:** La interpretación del comportamiento de los demás influye en nuestras respuestas, a través de mecanismos como la atribución.
+
+- **Entorno físico:** El ambiente puede modificar nuestro comportamiento, como la influencia de la temperatura en la agresividad.
+
+- **Factores biológicos:** La interacción entre genética y ambiente, con procesos como el estrés, puede influir en el comportamiento social.
+
+### 5. Principios Básicos de la Psicología Social {.unnumbered}
+
+
+**Construcción Social de la Realidad:**  
+Las personas interpretan la realidad a través de sus propios valores, creencias y experiencias, lo que explica por qué dos personas pueden reaccionar de manera diferente ante el mismo evento.
+
+**Motivos Sociales:**  
+Necesidades fundamentales que impulsan el comportamiento social. Existen cinco motivos sociales básicos:
+
+- **Pertenencia:** El deseo de formar parte de un grupo y ser aceptado.
+
+- **Comprensión Compartida:** La necesidad de compartir una misma visión del mundo con otros.
+
+- **Control:** Sentimiento de influencia sobre el entorno y las situaciones.
+
+- **Perfeccionamiento de Sí Mismo:** La motivación de mejorar y mantener una autoestima saludable.
+
+- **Confianza:** La necesidad de percibir el mundo como un lugar seguro, confiando en los demás.
+
+### 6. Interconexión de Procesos Psicosociales {.unnumbered}
+
+**Niveles de Análisis:**
+
+- **Intrapersonal:** Procesos psicológicos dentro del individuo (formación de actitudes, toma de decisiones, etc.).
+
+- **Interpersonal:** Interacciones directas entre personas (comunicación, atracción interpersonal, etc.).
+
+- **Grupal:** Influencia de la pertenencia a grupos sociales (cohesión grupal, conformidad, etc.).
+
+- **Macrosocial:** Influencia de factores culturales, sociales e históricos sobre el comportamiento (normas sociales, roles sociales, etc.).
+
+### 7. Métodos de Investigación en Psicología Social {.unnumbered}
+
+
+**Métodos Experimentales:**
+
+- **Experimentos de laboratorio:** Realizados en entornos controlados para estudiar la causa y efecto.
+
+- **Experimentos de campo:** Realizados en entornos naturales, permitiendo mayor validez externa.
+
+**Métodos No Experimentales:**
+
+- **Estudios correlacionales:** Determinan la relación entre dos o más variables sin implicar causalidad.
+
+- **Encuestas:** Recopilación de datos a través de cuestionarios o entrevistas.
+
+- **Observación sistemática:** Observación y registro del comportamiento en un entorno natural.
+
+- **Análisis del discurso:** Análisis del lenguaje para comprender procesos psicológicos y sociales.
+
+**Metaanálisis y Revisiones Sistemáticas:**
+
+- **Metaanálisis:** Técnica estadística para combinar resultados de múltiples estudios.
+
+- **Revisiones sistemáticas:** Análisis exhaustivo de la literatura existente sobre un tema.
+
+### 8. Historia de la Psicología Social  {.unnumbered}
+
+- **Psicología Social**: Estudio sistemático de los pensamientos, sentimientos y comportamientos en contextos sociales.
+
+- **Triplett (1897)**: Primer experimento registrado; los ciclistas mejoraban su rendimiento al competir contra otros, teorizando que la presencia de otros despertaba un instinto competitivo.
+
+- **Holgazanería Social (Efecto Ringelmann)**: El esfuerzo individual disminuye cuando se trabaja en grupo. Ejemplo: más personas, menor esfuerzo por persona al tirar de una cuerda.
+
+- **Kurt Lewin**: Padre de la psicología social; destacó la interacción entre personas y situaciones.

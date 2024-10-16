@@ -1,0 +1,84 @@
+--- 
+title: "Resumen del Tema 1 de Psicología Social"
+author: "David Alarcón"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: dalarconrub/psicologiasocialtema1
+
+
+output:
+  prettydoc::html_pretty:
+    theme: hpstr
+    highlight: github
+
+---
+
+
+# Psicología Social {.unnumbered #book}
+
+^* *Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía de la asignatura.*
+
+---
+
+# Tema 1: Introducción a la psicología social {.unnumbered} 
+
+## [1. ¿Qué es la Psicología Social y qué hace?](#tema1) {.unnumbered}
+- [1.1 La Psicología Social es una disciplina científica](#subtema1_1)
+- [1.2 La Psicología Social se centra en el comportamiento de las personas](#subtema1_2)
+  - [El saludo de apertura](#cuadro1_2_1)
+- [1.3 La Psicología Social busca comprender las causas del comportamiento social](#subtema1_3)
+- [1.4 La Psicología Social busca los principios básicos en un mundo social que cambia](#subtema1_4)
+- [1.5 Diferencias entre la Psicología Social y el sentido común](#subtema1_5)
+  - [El sesgo retrospectivo](#subtema1_5_1)
+- [1.6 El lugar de la Psicología Social en las Ciencias Sociales](#subtema1_6)
+
+## [2. Principios Básicos de la Psicología Social](#tema2) {.unnumbered}
+- [2.1 Construimos nuestra realidad social](#subtema2_1)
+  - [El Dilema del Prisionero](#cuadro2_1)
+- [2.2 Los motivos sociales](#subtema2_2)
+  - [1. Pertenencia](#subtema2_2_1)
+  - [2. Comprensión colectiva o compartida](#subtema2_2_2)
+  - [3. Control](#subtema2_2_3)
+  - [4. Perfeccionamiento de sí mismo](#subtema2_2_4)
+  - [5. Confianza](#subtema2_2_5)
+  - [Resumen de los motivos sociales centrales](#subtema2_2_6)
+- [2.3 La interconexión de los procesos psicosociales](#subtema2_3)
+  - [2.3.1 Críticas al reduccionismo en Psicología Social](#subtema2_3_1)
+  - [2.3.2 La conexión entre los procesos psicosociales](#subtema2_3_2)
+  - [2.3.3 El efecto de discontinuidad individuo-grupo](#subtema2_3_3)
+- [2.4 Comportamiento social y cognición social](#subtema2_4)
+- [2.5 El papel de la emoción en la Psicología Social](#subtema2_5)
+- [2.6 Importancia de las relaciones sociales para el bienestar de las personas](#subtema2_6)
+- [2.7 La importancia de la diversidad social](#subtema2_7)
+
+## [3. Cómo responden los psicólogos sociales a las preguntas que se plantean: la investigación en psicología social](#tema3) {.unnumbered}
+- [3.1 Teorías científicas: formulación y puesta a prueba de hipótesis](#subtema3_1)
+- [3.2 Métodos de investigación en Psicología Social](#subtema3_2)
+- [3.3. El experimento: generación del conocimiento a través de la intervención sistemática](#subtema3_3)
+  - [3.3.1. Control: manipulación de variables (y asignación aleatoria)](#subtema3_3_1)
+  - [3.3.2. Experimentos de laboratorio](#subtema3_3_2)
+  - [3.3.3. Experimentos de campo](#subtema3_3_3)
+  - [3.3.4. Otras reflexiones sobre la causalidad](#subtema3_3_4)
+- [3.4. Métodos correlacionales](#subtema3_4)
+  - [3.4.1. Correlación: la búsqueda de relaciones](#subtema3_4_1)
+  - [3.4.2. Investigación mediante encuestas](#subtema3_4_2)
+- [3.5 Observación sistemática: describir el mundo que nos rodea ](#subtema3_5)
+- [3.6. Investigación cualitativa y análisis del discurso](#subtema3_6)
+- [3.7. Metaanálisis y revisiones sistemáticas de la literatura científica](#subtema3_7)
+- [3.8. La ética en la investigación en Psicología Social](#subtema3_8)
+
+## [4. Una breve historia de la psicología social](#tema4) {.unnumbered}
+
+## [Glosaro Tema 1: Introducción a la psicología social](#glosario1) {.unnumbered}
+
+
+---
