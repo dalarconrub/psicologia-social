@@ -7,7 +7,6 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
-    search: true          # Búsqueda habilitada
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
