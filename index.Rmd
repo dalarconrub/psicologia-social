@@ -8,9 +8,7 @@ bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+  Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía de la asignatura.
 link-citations: yes
 github-repo: dalarconrub/psicologiasocialtema1
 
