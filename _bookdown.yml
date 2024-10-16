@@ -1,3 +1,6 @@
+book_filename: "psicologia_social_tema_1"
+output_dir: "docs"
+
 delete_merged_file: true
 
 language:
