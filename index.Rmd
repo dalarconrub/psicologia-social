@@ -13,11 +13,14 @@ link-citations: yes
 github-repo: dalarconrub/psicologiasocialtema1
 
 
+
 output:
   prettydoc::html_pretty:
     theme: hpstr
     highlight: github
-
+    toc: true
+   
+   
 ---
 
 
