@@ -18,6 +18,8 @@ Los hallazgos de cada estudio se representan mediante el **tamaño del efecto**,
 
 Por otro lado, el enorme aumento de publicación de estudios científicos ha impulsado las **revisiones sistemáticas**, que son un tipo de estudio científico que se encarga de recopilar la información generada en torno a un tema concreto con el objetivo de dar una síntesis completa e imparcial de los estudios mediante una rigurosa metodología y una transparente información del procedimiento para que sea posible su replicación.
 
+![Piramide de evidencias](static/images/image6.png)
+
 ## 3.8. Ética de la investigación {.unnumbered #subtema3_8}
 
 La APA (American Psychological Association) ha formulado códigos éticos desde 1992 que mantiene actualizados, donde los principios generales son:
