@@ -1,4 +1,4 @@
-#book_filename: "psicologia-social-tema-1"
+book_filename: "index"
 output_dir: "docs"
 
 delete_merged_file: true
@@ -9,7 +9,7 @@ language:
 
 
 rmd_files:
-  - "index.Rmd"  # Introducción o índice
+  - "inicio.Rmd"  # Introducción o índice
 
   # Capítulo 1: ¿Qué es la Psicología Social y qué hace?
   - "bookdown/tema1.Rmd"
