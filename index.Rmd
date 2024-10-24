@@ -14,18 +14,15 @@ link-citations: yes
 github-repo: dalarconrub/psicologia-social-tema-1
 
 
-
 output:
   prettydoc::html_pretty:
     theme: hpstr
     highlight: github
-    toc: true
-   
-   
+
 ---
 
 
-# Psicología Social {.unnumbered #book}
+# [Psicología Social](https://dalarconrub.github.io/psicologia-social/) {.unnumbered #book}
 
 *Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía de la asignatura.*
 
@@ -83,3 +80,4 @@ output:
 
 
 ---
+

@@ -9,7 +9,7 @@ language:
 
    
 rmd_files:
-  - "inicio.Rmd"  # Introducción o índice
+  - "index.Rmd"  # Introducción o índice
 
   # Capítulo 1: ¿Qué es la Psicología Social y qué hace?
   - "bookdown/tema1.Rmd"
