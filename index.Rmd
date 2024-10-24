@@ -1,0 +1,34 @@
+--- 
+title: "Psicología Social"
+subtitle: ""
+author: ""
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+#bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+ Esta página tiene  resumen de los temas sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía de la asignatura.
+link-citations: yes
+github-repo: dalarconrub/psicologia-social
+
+
+output:
+  prettydoc::html_pretty:
+    theme: hpstr
+    highlight: github
+    toc: true
+   
+---
+
+
+# [Psicología Social](https://dalarconrub.github.io/psicologia-social/)
+
+*Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía docente de la asignatura.*
+
+
+
+# [Tema 1: Introducción a la Psicología Social](https://dalarconrub.github.io/psicologia-social-tema-1/)
+
+# [Tema 2: Cognición Social](https://dalarconrub.github.io/psicologia-social-tema-2/)
