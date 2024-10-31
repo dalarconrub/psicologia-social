@@ -32,3 +32,6 @@ output:
 # [Tema 1: Introducción a la Psicología Social](https://dalarconrub.github.io/psicologia-social-tema-1/)
 
 # [Tema 2: Cognición Social](https://dalarconrub.github.io/psicologia-social-tema-2/)
+
+# [Tema 3: Procesos de Atribución](https://dalarconrub.github.io/psicologia-social-tema-3/)
+
