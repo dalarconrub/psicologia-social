@@ -25,7 +25,7 @@ output:
 
 # [Psicología Social](https://dalarconrub.github.io/psicologia-social/)
 
-*Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía docente de la asignatura.*
+**Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía docente de la asignatura.**
 
 
 
@@ -34,4 +34,6 @@ output:
 # [Tema 2: Cognición Social](https://dalarconrub.github.io/psicologia-social-tema-2/)
 
 # [Tema 3: Procesos de Atribución](https://dalarconrub.github.io/psicologia-social-tema-3/)
+
+# [Tema 4: Actitudes](https://dalarconrub.github.io/psicologia-social-tema-4/)
 
