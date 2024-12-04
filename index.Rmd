@@ -37,3 +37,4 @@ output:
 
 # [Tema 4: Actitudes](https://dalarconrub.github.io/psicologia-social-tema-4/)
 
+# [Tema 5: Estereotipos](https://dalarconrub.github.io/psicologia-social-tema-5/)
