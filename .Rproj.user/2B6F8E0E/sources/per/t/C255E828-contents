@@ -1,0 +1,46 @@
+--- 
+title: "Resumen del Tema 1 de Psicología Social"
+subtitle: "Tema 1: Introducción a la psicología social"
+author: ""
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: website
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía de la asignatura.
+link-citations: yes
+github-repo: dalarconrub/psicologia-social-tema-1
+
+
+output:
+  prettydoc::html_pretty:
+    theme: hpstr
+    highlight: github
+
+---
+
+
+# [Psicología Social](https://dalarconrub.github.io/psicologia-social/)
+
+
+**Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía de la asignatura.**
+
+
+# Tema 1: Introducción a la psicología social {.unnumbered} 
+
+## [1. ¿Qué es la Psicología Social y qué hace?](#tema1) {.unnumbered}
+
+## [2. Principios Básicos de la Psicología Social](#tema2) {.unnumbered}
+
+## [3. Cómo responden los psicólogos sociales a las preguntas que se plantean: la investigación en psicología social](#tema3) {.unnumbered}
+
+## [4. Una breve historia de la psicología social](#tema4) {.unnumbered}
+
+## [Glosaro Tema 1: Introducción a la psicología social](#glosario1) {.unnumbered}
+
+
+
+---
+

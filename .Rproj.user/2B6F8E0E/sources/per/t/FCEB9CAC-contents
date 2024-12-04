@@ -1,0 +1,56 @@
+#output_dir: "docs"
+#book_filename: "index2"
+
+delete_merged_file: true
+
+language:
+  ui:
+    chapter_name: "Capítulo "
+
+   
+rmd_files:
+  - "index.Rmd"  # Introducción o índice
+
+  # Capítulo 1: ¿Qué es la Psicología Social y qué hace?
+  - "bookdown/tema1.Rmd"
+  - "bookdown/subtema1_1.Rmd"
+  - "bookdown/subtema1_2.Rmd"
+  - "bookdown/cuadro1_2_1.Rmd"
+  - "bookdown/subtema1_3.Rmd"
+  - "bookdown/subtema1_4.Rmd"
+  - "bookdown/subtema1_5.Rmd"
+  - "bookdown/subtema1_5_1.Rmd"
+  - "bookdown/subtema1_6.Rmd"
+
+  # Capítulo 2: Principios Básicos de la Psicología Social
+  - "bookdown/subtema2_1.Rmd"
+  - "bookdown/cuadro2_1.Rmd"
+  - "bookdown/subtema2_2.Rmd"
+  - "bookdown/subtema2_2_1.Rmd"
+  - "bookdown/subtema2_2_2.Rmd"
+  - "bookdown/subtema2_2_3.Rmd"
+  - "bookdown/subtema2_2_4.Rmd"
+  - "bookdown/subtema2_2_5.Rmd"
+  - "bookdown/subtema2_2_6.Rmd"
+  - "bookdown/subtema2_3.Rmd"
+  - "bookdown/subtema2_3_1.Rmd"
+  - "bookdown/subtema2_3_2.Rmd"
+  - "bookdown/subtema2_3_3.Rmd"
+  - "bookdown/subtema2_4.Rmd"
+  - "bookdown/subtema2_5.Rmd"
+  - "bookdown/subtema2_6.Rmd"
+  - "bookdown/subtema2_7.Rmd"
+  
+  # Capítulo 3: Cómo responden los psicolos sociales
+  - "bookdown/subtema3_1.Rmd"
+  - "bookdown/subtema3_2.Rmd"
+  - "bookdown/subtema3_3.Rmd"
+  - "bookdown/subtema3_4.Rmd"
+  - "bookdown/subtema3_5.Rmd"
+
+ # Capítulo 4. Historia 
+  - "bookdown/subtema4_1.Rmd"
+  
+# Glosario tema 1 y mapa conceptual
+  - "bookdown/glosario1.Rmd"
+  #- "bookdown/mapa1.Rmd"
