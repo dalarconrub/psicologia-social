@@ -24,6 +24,7 @@ output:
 
 # [Psicología Social](https://dalarconrub.github.io/psicologia-social/)
 
+
 **Este resumen del tema es sólo para uso como material de apoyo en las tutorías. Para estudiar y preparar el examén  se recomienda usar el libro referenciado en la guía de la asignatura.**
 
 
@@ -38,6 +39,7 @@ output:
 ## [4. Una breve historia de la psicología social](#tema4) {.unnumbered}
 
 ## [Glosaro Tema 1: Introducción a la psicología social](#glosario1) {.unnumbered}
+
 
 
 ---
