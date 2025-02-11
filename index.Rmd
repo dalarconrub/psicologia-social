@@ -40,3 +40,5 @@ output:
 # [Tema 5: Estereotipos](https://dalarconrub.github.io/psicologia-social-tema-5/)
 
 # [Tema 6: Conducta de ayuda](https://dalarconrub.github.io/psicologia-social-tema-6/)
+
+# [Tema 8: Agresión](https://dalarconrub.github.io/psicologia-social-tema-8/)
