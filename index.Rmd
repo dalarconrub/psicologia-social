@@ -42,3 +42,6 @@ output:
 # [Tema 6: Conducta de ayuda](https://dalarconrub.github.io/psicologia-social-tema-6/)
 
 # [Tema 8: Agresión](https://dalarconrub.github.io/psicologia-social-tema-8/)
+
+# [Tema 9: Autoconcepto e Identidad Social](https://dalarconrub.github.io/psicologia-social-tema-9/)
+
