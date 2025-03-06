@@ -45,5 +45,4 @@ output:
 
 # [Tema 9: Autoconcepto e Identidad Social](https://dalarconrub.github.io/psicologia-social-tema-9/)
 
-
 # [Tema 10: El prejuicio y discriminación](https://dalarconrub.github.io/psicologia-social-tema-10/)
